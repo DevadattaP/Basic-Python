@@ -44,7 +44,7 @@ To run these programs, you'll need:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/YourUsername/Python-Practicals.git
+   git clone https://github.com/DevadattaP/Basic-Python.git
    cd Python-Practicals
     ```
 2. **Open Notebooks in Google Colab or Jupyter Notebook:**
